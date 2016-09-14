@@ -1,12 +1,14 @@
-Brett Henning
-Craig Anderson
-josiah allen
-Matthew McKeever
-Patrick Shechet
-Ryan Freckleton
-Brett Henning
-James Noyes
-Timothy McFadden
-Patricia Witten
+Members
+=======
+ - Craig Anderson
+ - Josiah Allen
+ - Brett Henning
+ - Ryan Freckleton
+ - Matthew McKeever
+ - Patrick Shechet
+ - Brett Henning
+ - James Noyes
+ - Timothy McFadden
+ - Patricia Witten
 why so many blank lines?
 
